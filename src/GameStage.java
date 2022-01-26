@@ -21,7 +21,6 @@ import javafx.scene.media.MediaPlayer;
 import javafx.animation.AnimationTimer;
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: A class that constructs the game world and updates the current game state.
  */
 public class GameStage {

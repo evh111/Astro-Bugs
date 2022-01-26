@@ -2,7 +2,6 @@ import javafx.scene.shape.Line;
 import javafx.scene.shape.Rectangle;
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: A border to ensure that the player, enemies, and bullets cannot escape the playing field.
  */
 public class Collider extends Line {

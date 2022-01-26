@@ -15,7 +15,6 @@ import javafx.scene.media.MediaPlayer;
 import javafx.application.Application;
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: A class for constructing the main menu for user navigation.
  */
 public class MainMenu extends Application {

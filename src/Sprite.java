@@ -1,7 +1,6 @@
 import javafx.scene.image.ImageView;
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: Abstract class for all of the sprite classes.
  */
 public abstract class Sprite extends ImageView {

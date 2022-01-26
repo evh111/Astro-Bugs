@@ -4,7 +4,6 @@ import javafx.scene.image.ImageView;
 import java.io.FileNotFoundException;
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: A class containing all of the data and methods necessary for rendering and updating the player sprite.
  */
 public class PlayerSprite extends Sprite {

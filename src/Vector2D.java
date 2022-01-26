@@ -1,6 +1,5 @@
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: A simple vector class containing cartesian points.
  */
 public class Vector2D {

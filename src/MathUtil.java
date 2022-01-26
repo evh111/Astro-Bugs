@@ -1,6 +1,5 @@
 /**
  * Elijah Helmandollar
- * Lab #8
  * Description: A class that contains methods for commonly used formulas within the application.
  */
 public class MathUtil {
