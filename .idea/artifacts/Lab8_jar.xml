@@ -2,7 +2,7 @@
   <artifact type="jar" name="Lab8:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Lab8_jar</output-path>
     <root id="archive" name="Lab8.jar">
-      <element id="module-output" name="Lab8" />
+      <element id="module-output" name="Astro-Bugs" />
     </root>
   </artifact>
 </component>

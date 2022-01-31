@@ -6,7 +6,7 @@ import javafx.scene.shape.Rectangle;
  */
 public class Collider extends Line {
 
-    // The direction that the each collider represents
+    // The direction that each collider represents
     public Vector2D pushDirection;
 
     // The border on the playing field
@@ -20,7 +20,7 @@ public class Collider extends Line {
 
     }
 
-    // Halts the sprite at it's current location
+    // Halts the sprite at its current location
     public void halt (Sprite sprite) {
 
         if (MathUtil.oppositeSigns(sprite.velocity.x, this.pushDirection.x)) {
